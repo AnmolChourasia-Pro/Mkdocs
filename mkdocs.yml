@@ -1,0 +1,9 @@
+site_name: SharePoint App Registration and Token Handling
+site_description: Documentation on setting up Azure AD app, permissions, and using certificates for SharePoint.
+nav:
+  - Home: index.md
+  - Azure App Registration: azure_app_registration.md
+  - Permissions Required: permissions.md
+  - Certificate Authentication: certificate_auth.md
+theme:
+  name: material
