@@ -1,4 +1,4 @@
-# SharePoint Azure AD App Integration tempText
+# SharePoint Azure AD App Integration 
 
 This documentation provides step-by-step instructions to:
 - Register an application in Azure AD for SharePoint.
